@@ -9,8 +9,7 @@
 require('includes/application_top.php');
 if ($TraeteloData->CustomerID == 0)
 {
-	$navigation->set_snapshot();
-	tep_redirect(tep_href_link(FILENAME_LOGIN, '', 'SSL'));
+	echo 'Release';
 }
 require(DIR_WS_LANGUAGES . $language . '/' . FILENAME_ACCOUNT_HISTORY);
 $breadcrumb->add(NAVBAR_TITLE_1, tep_href_link(FILENAME_ACCOUNT, '', 'SSL'));
