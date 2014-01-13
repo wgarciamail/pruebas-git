@@ -9,7 +9,7 @@
 require('includes/application_top.php');
 if ($TraeteloData->CustomerID == 0)
 {
-	echo 'Release';
+	echo 'Release2';
 }
 require(DIR_WS_LANGUAGES . $language . '/' . FILENAME_ACCOUNT_HISTORY);
 $breadcrumb->add(NAVBAR_TITLE_1, tep_href_link(FILENAME_ACCOUNT, '', 'SSL'));
