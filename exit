@@ -1,0 +1,123 @@
+[33mcommit 5baa4f5da8e3f924a7c8a38915574f0c9f5f9a91[m
+Merge: 60e3aa0 8d7c017
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 01:19:29 2014 -0430
+
+    Merge branch 'Tercer_brach'
+    
+    Conflicts:
+    	pruebas.html
+
+[33mcommit 60e3aa0252941c840089e2cb61e1c905e66e4a0a[m
+Merge: 7a6ded6 0bc9d4d
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 01:15:14 2014 -0430
+
+    Merge branch 'nuevo_branch'
+
+[33mcommit 8d7c0176c6fc095438ea30db0f5232c275bc5fcb[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 01:04:14 2014 -0430
+
+    nuevos reportes ...
+
+[33mcommit 0bc9d4d45e0c9768db18468382c44603a7a4124f[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 00:55:40 2014 -0430
+
+    Estas son las modificaciones en la rama principal
+
+[33mcommit fddfdf2d8c9d571423b91842453fce453890c8e4[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 00:52:16 2014 -0430
+
+    modificaciones para el segundo branch
+
+[33mcommit 7a6ded6959df9a70e2b7419ec62c00028ea1403b[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 00:48:16 2014 -0430
+
+    modificacion de un archivo para el branch principal
+
+[33mcommit aa649b8d1a5fe2cf93e248ad40e353de731913bc[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 00:39:58 2014 -0430
+
+    modificaciones para probar el nuevo branch
+
+[33mcommit 544c3fda1f9b2386a4b1ddcfc063a4dfde74d230[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 00:32:27 2014 -0430
+
+    Este es el segundo archivo agregado
+
+[33mcommit 7858d69560d8519cfb2dc40b09710f694d850040[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 00:29:13 2014 -0430
+
+    Revert "no se de donde salio esta modificacion"
+    
+    This reverts commit 0bc6ba573e4088ee680bd673c04bf77fa59ee1d7.
+
+[33mcommit 0bc6ba573e4088ee680bd673c04bf77fa59ee1d7[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 00:28:35 2014 -0430
+
+    no se de donde salio esta modificacion
+
+[33mcommit 64b134f06ebc07946d060e1a3095677bb1607fc2[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 00:19:13 2014 -0430
+
+    modificaciones en la rama principal
+
+[33mcommit e779a2ed40e45ab49f47367f29baeb195dfcc276[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 00:02:43 2014 -0430
+
+    no se de que me esta pidiando
+
+[33mcommit 56b7a1e5698af539233c8cbd20163c6f2be4d199[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Fri Jul 4 00:01:21 2014 -0430
+
+    Esto es para el nuevo branch prueba de codiogo
+
+[33mcommit f5e6dc5e2eb55de801ef86fa8e3bd5e396cfb381[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Thu Jul 3 23:52:49 2014 -0430
+
+    Esta es una modificacion desde git
+
+[33mcommit a70f630a8e0345404684d8225077a4ee4b00f46d[m
+Author: wgarciamail <wgarciamail@gmail.com>
+Date:   Thu Jul 3 23:50:21 2014 -0430
+
+    Esta es la primera modificacion del archivo
+
+[33mcommit b0366f7de99c425d729da90d999a87410e5af216[m
+Author: Luis A. Izaguirre <lsizaguirre@gmail.com>
+Date:   Mon Jan 13 14:24:56 2014 -0430
+
+    Ya lo solucione
+
+[33mcommit 2bf4accee1acde6fa314d985c1c7a3d50a0e19a7[m
+Author: Luis A. Izaguirre <lsizaguirre@gmail.com>
+Date:   Mon Jan 13 14:17:15 2014 -0430
+
+    Imprimir mensaje de Release
+
+[33mcommit 2ef64567b98b7baf0a393f25185de4a8ed0b8443[m
+Author: Luis A. Izaguirre <lsizaguirre@gmail.com>
+Date:   Mon Jan 13 11:36:33 2014 -0430
+
+    First Commit (First Upload)
+    
+    Commit Inicial. A partir de este commit se generarán los tres Branchs
+    principales (Development, Testing, Release)
+
+[33mcommit 30d3badf1fb44415c3973b13c4b5feebfa2f9a00[m
+Author: Luis Izaguirre <lsizaguirre@gmail.com>
+Date:   Mon Jan 13 07:06:58 2014 -0800
+
+    Initial commit
